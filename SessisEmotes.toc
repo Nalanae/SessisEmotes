@@ -1,6 +1,6 @@
-## Interface: 11302
+## Interface: 90002
 ## Title: SessisEmotes
 ## Author: nalanae
-## Version: 0.1
+## Version: 0.2
 
 SessisEmotes.lua
